@@ -16,7 +16,7 @@ GEM_VERSION      = DataMapper::VERSION
 GEM_DEPENDENCIES = [
   %w[ data_objects ~>0.9.11 ],
   %w[ extlib       ~>0.9.11 ],
-  %w[ addressable  ~>2.0.2  ],
+  %w[ addressable  ~>2.0  ],
 ]
 
 PROJECT_NAME        = 'datamapper'
